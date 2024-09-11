@@ -58,15 +58,15 @@ This repository contains an Excel-based dashboard analyzing the sales and perfor
 
   The top-performing cities based on sales are:
 
-    - Los Angeles: $1.1 million
+  - Los Angeles: $1.1 million
       
-    - Houston: $950,000
+  - Houston: $950,000
       
-    - New York City: $900,000
+  - New York City: $900,000
       
-    - Chicago: $850,000
+  - Chicago: $850,000
       
-    - Miami: $800,000
+  - Miami: $800,000
 
 ## Insights
 
