@@ -1,5 +1,7 @@
 # Vrinda-Store-Sales-Dashboard
 
+## Vrinda Store Dashboard: https://1drv.ms/x/c/adcf90e666fa3fa3/Ee6pRn-ZjP1KuLHLkUpsBtIBS5K8hJ3NMawM1EhQDzwtRA?e=gD1IAH
+
 ## Overview
 
 This repository contains an Excel-based dashboard analyzing the sales and performance of the Vrinda Store. The dashboard provides insights into sales metrics, product performance, customer demographics, and store operations, allowing for data-driven decisions to improve the store's business strategies.
